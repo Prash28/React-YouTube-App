@@ -4,13 +4,14 @@
 /node_modules
 /.pnp
 .pnp.js
+src/utils/constants.js
 
 # testing
 /coverage
 
 # production
 /build
-src/utils/constants.js
+
 # namaste-youtube\src\utils\constants.js
 
 # misc
