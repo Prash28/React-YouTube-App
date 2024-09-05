@@ -4,7 +4,9 @@
 /node_modules
 /.pnp
 .pnp.js
-/src/utils/constants.js
+
+D:/Prash/Work/Namaste React Youtube App/namaste-youtube/src/utils/constants.js
+# /src/utils/constants.js
 
 # testing
 /coverage
