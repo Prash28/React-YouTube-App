@@ -10,6 +10,8 @@
 
 # production
 /build
+src/utils/constants.js
+# namaste-youtube\src\utils\constants.js
 
 # misc
 .DS_Store
